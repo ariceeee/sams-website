@@ -25,7 +25,9 @@
 
 - Music page improvements
   - Clicking on an album opens up a mini page with links to select your preferred streaming service
-  !["Album cover with links to listen on different streaming services listed below it."](https://ibb.co/PmqwFW9)
+  
+  !["Album cover with links to listen on different streaming services listed below it."](https://i.ibb.co/41xs0wj/Capture.png)
+  
 - Tour/Upcoming Shows page
   - Available for future use when he has live gigs
 - Other Projects page
@@ -39,10 +41,10 @@
 
 (This list will be updated as I go with more detailed objectives which will eventually be translated into Issues.)
 
--[] Identify what I actually want to create/what I need
--[] Pick a tech stack
--[] Design brainstorming
--[] Figma mock up
--[] Code it
--[] Write/select content where needed (ex: About page description, images, etc.)
--[] Deploy it
+- [ ] Identify what I actually want to create/what I need
+- [ ] Pick a tech stack
+- [ ] Design brainstorming
+- [ ] Figma mock up
+- [ ] Code it
+- [ ] Write/select content where needed (ex: About page description, images, etc.)
+- [ ] Deploy it
